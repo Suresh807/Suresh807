@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=suresh807&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-profile-trophy.vercel.app/?username=suresh807&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-👀 I’m interested in Machine Learning. <br>🌱 I’m currently learning Deepl learning and Exploratory Data Analysis. <br>
+👀 I’m interested in Machine Learning. <br>🌱 I’m currently learning Deep learning and Exploratory Data Analysis. <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
