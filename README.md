@@ -7,13 +7,13 @@
 [![](https://visitcount.itsvg.in/api?id=suresh807&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-profile-trophy.vercel.app/?username=suresh807&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-👀 I’m interested in Machine Learning. <br>🌱 I’m currently learning Deep Learning and Exploratory Data Analysis. <br>
+👀 I’m interested in Machine Learning. <br>🌱 I’m currently learning Deepl learning and Exploratory Data Analysis. <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suresh-kumar-k-398439237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/saran-kumar-r-936b02203/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Sarankumar_R/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suresh807/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suresh807/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suresh807/" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/sarankumar_r0076" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="https://www.hackerrank.com/sarankumar_r0076" height="30" width="40" /></a>
 </p>
 <br>
@@ -25,7 +25,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suresh807&theme=dark&hide_border=true)<br/>
 ## 🧑‍💻 Leetcode Stats
 <p>
-  <img  src="https://leetcard.jacoblin.cool/Sarankumar_R?theme=dark&font=ABeeZee&ext=heatmap"/>
+  <img  src="https://leetcard.jacoblin.cool/suresh807?theme=dark&font=ABeeZee&ext=heatmap"/>
 </p>
 
 <br>
