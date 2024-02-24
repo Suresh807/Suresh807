@@ -1,11 +1,13 @@
-<h1 align="center">Hello there! 👋 I'm Suresh Kumar K</h1>
-<h3 align="center">Enthusiastic about Machine Learning, based in India</h3>
+<h1 align="center">Hello! 👋 I'm Suresh Kumar K</h1>
+<h3 align="center">Passionate about Machine Learning and AI | Data Enthusiast 🚀</h3>
 
 ---
 [![Profile Views](https://visitcount.itsvg.in/api?id=suresh807&icon=0&color=0)](https://visitcount.itsvg.in)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=suresh807&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-👀 Passionate about Machine Learning. <br>🌱 Currently diving into Deep learning and Exploratory Data Analysis. <br>
+👨‍💻 I'm a Machine Learning enthusiast based in India, currently exploring the realms of Deep Learning and diving into the world of Exploratory Data Analysis. <br>
+🌟 Excited about leveraging data to derive insights and build intelligent solutions.
+
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
