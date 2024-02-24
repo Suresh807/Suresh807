@@ -23,9 +23,9 @@
   
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suresh807&theme=dark&hide_border=true)<br/>
-## 🧑‍💻 Leetcode Stats
+## 🧑‍💻 Linkeldn Stats
 <p>
-  <img  src="https://leetcard.jacoblin.cool/suresh807?theme=dark&font=ABeeZee&ext=heatmap"/>
+  <img  src="https://www.linkedin.com/in/suresh-kumar-k-398439237/&font=ABeeZee&ext=heatmap"/>
 </p>
 
 <br>
